@@ -1,1 +1,0 @@
-# rustamtolipov.github.io
